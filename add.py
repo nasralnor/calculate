@@ -1,4 +1,4 @@
-a = 10
-b = 20
+a = 20
+b = 10
 c = a + b
-print(d)
+print(c)
